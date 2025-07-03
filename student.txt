@@ -1,0 +1,4 @@
+ID,Name,Subject1,Subject2,Subject3,TotalFee,Status
+S001,Ali,math,chem,eng,630,not
+S002,Siti,bio,phy,math,650,complete
+S004,raidahqistina,chem,bio,eng,660,not
